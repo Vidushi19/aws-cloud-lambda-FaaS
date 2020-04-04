@@ -5,7 +5,6 @@ This repository is created for the purpose of showcasing the project architectur
 
 AWS Lambda Function written in JAVA | 
 S3 Bucket | 
-CI/CD
  | JSON - for Cloudwatch Metrics
  | Shell scripts to start/stop the server
  | YML - to run the shell scripts step by step and define runtime for each step.
