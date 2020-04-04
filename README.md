@@ -1,5 +1,5 @@
 # Cloud Computing - FaaS
-This repository is created for the purpose of showcasing the project architecture for Continous Integration and Deployment of an application on server. Here, we are using AWS provided server (PaaS). This platform/server can be referred to in the other repository namely: .
+This repository is created for the purpose of showcasing the project architecture for Continous Integration and Deployment of an application on server. Here, we are using AWS provided server (PaaS). This platform/server can be referred to in the other repository: https://github.com/Vidushi19/aws-cloud-webapp-recipe.
 
 ## Technology Stack
 
