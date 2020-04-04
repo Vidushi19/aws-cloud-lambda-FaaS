@@ -3,11 +3,11 @@ This repository is created for the purpose of showcasing the project architectur
 
 ## Technology Stack
 
-AWS Lambda Function written in JAVA
-S3 Bucket
+AWS Lambda Function written in JAVA | 
+S3 Bucket | 
 CI/CD
-JSON - for Cloudwatch Metrics
-Shell scripts to start/stop the server
-YML - to run the shell scripts step by step and define runtime for each step.
+ | JSON - for Cloudwatch Metrics
+ | Shell scripts to start/stop the server
+ | YML - to run the shell scripts step by step and define runtime for each step.
 
 Lambda funciton here is used to trigger the SMS request via AWS SNS whenever CRUD operations are performed on the database.
