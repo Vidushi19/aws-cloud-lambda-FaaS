@@ -1,7 +1,8 @@
 # Cloud Computing - FaaS
 This repository is created for the purpose of showcasing the project architecture for Continous Integration and Deployment of an application on server. Here, we are using AWS provided server (PaaS). This platform/server can be referred to in the other repository namely: .
 
-#Technology Stack
+## Technology Stack
+
 AWS Lambda Function written in JAVA
 S3 Bucket
 CI/CD
